@@ -13,7 +13,7 @@ public class DanhSachNguoi {
         dsNguoi.add(nguoi);
         System.out.println("Da them!");
     }
-
+    //testSVN
     public void suaThongTin(Scanner s) {
         int ID, index = -1;
         System.out.print("Nhap so CMND de xoa: ");
